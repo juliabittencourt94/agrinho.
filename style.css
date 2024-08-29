@@ -1,0 +1,83 @@
+     <!DOCTYPE css>
+    <style>
+        body {
+            margin: 0;
+            font-family: Georgia, Times, 'Times New Roman', serif, italic;
+        }
+        
+        header {
+            background-color: #242d58; 
+            color: #d4d4b5;
+            padding: 10px;
+        }
+        
+        .agrinho img {
+            fill 1000072814
+            width: 20%;
+            height: 80px;
+            vertical-align: middle;
+        }
+        
+        .logo h1 {
+            1000072813
+            display: inline;
+            margin-left: 10px;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            margin: 90;
+            padding: 10;
+        }
+        
+        nav ul li {
+            display: inline;
+            margin-right: 40px;
+        }
+        
+        nav ul li a {
+            color: #dbc12e;
+            text-decoration: none;
+        }
+        
+        #sobre {
+            background: linear-gradient(to bottom, #ffffff, rgb(38, 59, 6));
+            padding: 300px 0;
+        }
+        
+        #estudantes {
+            background: linear-gradient(to bottom,  rgb(255, 255, 255), rgb(38, 59, 6)); 
+            padding: 300px 0;
+        }
+        
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        
+        .texto-sobre {
+            width: 80%;
+            margin: 0 auto;
+            text-align: justify;
+        }
+        
+        .imagem-sobre {
+            1000072813
+            width: 80%;
+            margin: 0 auto;
+        }
+        
+        .imagem-sobre img {
+            width: 100%;
+            height: auto;
+        }
+        
+        footer {
+            background-color: #422d11;
+            color: #fff;
+            padding: 80px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
